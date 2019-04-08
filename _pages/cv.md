@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://hoanirui.github.io/files/HUANG_Yirui_University_of_Edinburgh＿USA.pdf) 
+
+
 Education
 ======
 * M.S. in Artificial Intelligence, The University of Edinburgh, 2018
 * B.S. in Computer Science and Mathematics, University of Toronto, 2016
 * Exchange Program, School of Fundamental Science and Engineering, Waseda University, 2015
+
 
 Work experience
 ======
@@ -40,14 +44,13 @@ Work experience
   * Duties included: Improved the bug assignment system in Google’s internal bug organizer
   * Mentor: Shivani Pant
   
+  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Java, Python
+* Android development in Android Studio 
+* Statistical methods, machine learning, speech recognition, deep learning and natural language processing
+
 
 Publications
 ======
@@ -55,18 +58,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!---
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
