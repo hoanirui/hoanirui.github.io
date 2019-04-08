@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://hoanirui.github.io/files/HUANG_Yirui_University_of_Edinburgh＿USA.pdf) 
-
 
 Continuous Word Recognition
 ------
