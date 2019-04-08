@@ -23,25 +23,24 @@ Work experience
 ======
 * Summer 2017: Software Engineer Internship
   * Google Inc.
-  * Duties included: Designed and implemented an interactive screenshot code generator for Android Google Maps
+  * Designed and implemented an interactive screenshot code generator for Android Google Maps
   * Mentor: Megumi Yamada
 
 * Spring 2017: Visiting Student Research Internship
   * Brown University
-  * Duties included: Performed statistical analysis on user interactions for the crowdsourcing system "Drafty"
+  * Performed statistical analysis on user interactions for the crowdsourcing system "Drafty"
   * Supervisor: Jeff Huang
  
 * Fall 2016: Software Engineer Internship
   * Google Inc.
-  * Duties included: 
-    ** Created support for multiple locales for languages in Android Chrome and WebView
-    ** Fixed Han Unification in Android Nougat
-    ** Made locales consistent across all Chrome supported Android Versions
+  * Created support for multiple locales for languages in Android Chrome and WebView
+  * Fixed Han Unification in Android Nougat
+  * Made locales consistent across all Chrome supported Android Versions
   * Mentor: Seigo Nonaka
 
 * Summer 2015: Summer Trainee Engineering Program Internship
   * Google Inc.
-  * Duties included: Improved the bug assignment system in Google’s internal bug organizer
+  * Improved the bug assignment system in Google’s internal bug organizer
   * Mentor: Shivani Pant
   
   
