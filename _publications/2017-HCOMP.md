@@ -6,7 +6,6 @@ excerpt: 'Drafty is a platform that enlists visitorsof an editable dataset to be
 date: 2017
 venue: 'AAAI Conference on Human Computation and Crowdsourcing'
 paperurl: 'https://jeffhuang.com/Final_Drafty_HCOMP17.pdf'
-citation: 'test'
 ---
 
 [Download paper here](https://jeffhuang.com/Final_Drafty_HCOMP17.pdf)
