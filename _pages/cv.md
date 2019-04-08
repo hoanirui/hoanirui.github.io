@@ -11,21 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Artificial Intelligence, The University of Edinburgh, 2018
+* B.S. in Computer Science and Mathematics, University of Toronto, 2016
+* Exchange Program, School of Fundamental Science and Engineering, Waseda University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Software Engineer Internship
+  * Google Inc.
+  * Duties included: Designed and implemented an interactive screenshot code generator for Android Google Maps
+  * Mentor: Megumi Yamada
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017: Visiting Student Research Internship
+  * Brown University
+  * Duties included: Performed statistical analysis on user interactions for the crowdsourcing system "Drafty"
+  * Supervisor: Jeff Huang
+ 
+* Fall 2016: Software Engineer Internship
+  * Google Inc.
+  * Duties included: 
+    ** Created support for multiple locales for languages in Android Chrome and WebView
+    ** Fixed Han Unification in Android Nougat
+    ** Made locales consistent across all Chrome supported Android Versions
+  * Mentor: Seigo Nonaka
+
+* Summer 2015: Summer Trainee Engineering Program Internship
+  * Google Inc.
+  * Duties included: Improved the bug assignment system in Google’s internal bug organizer
+  * Mentor: Shivani Pant
   
 Skills
 ======
