@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hi"
-excerpt: "About"
+title: "Yirui Huang"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I received a Master’s at University of Edinburgh in 2018, majoring in Artificial Intelligence. Before that, I went for undergraduate study in Canada and graduated with Honors Bachelor of Science in Computer Science and Mathematics in 2016. 
+I received my Master’s in Artificial Intelligence at University of Edinburgh in 2018. I worked under Dr. Hugh Leather and Dr. Volker Seeker on gamification of Spaced Repeition Software in Android. I did my undergraduate at University of Toronto and graduated with Honors in Computer Science and Mathematics in 2016. 
+
+My interest areas include Android development, applications of machine learning/deep learning to natural language processing. 
