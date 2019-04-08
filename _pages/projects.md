@@ -10,6 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
+Gamification of Spaced Repetition Software
+------
+* Built a gamified spaced repetition software "NekoAnki"
+* Performed a user-study to evaluate whether gamification improves user learning experience and entertainment value
+* Implemented a framework for a mobile interface based reward system for gamification purposes
+
+
 Continuous Word Recognition
 ------
 * Performed an HMM-based speech recognition task on the TIMIT speech dataset using the Kaldi toolkit
@@ -17,7 +24,7 @@ Continuous Word Recognition
 
 
 
-Image Captioning
+Image Captioning on MSCOCO dataset
 ------
 * Used the TensorFlow framework to perform an image captioning task on the MSCOCO dataset
 * Constructed an encoder-decoder framework with a CNN encoder and an RNN decoder with GRU and LSTM
@@ -25,7 +32,7 @@ Image Captioning
 
 
 
-Image Classification
+Image Classification on the MNIST and EMNIST datasets
 ------
 * Classified images of handwritten digits and letters from the MNIST and EMNIST datasets using deep neural networks
 * Implemented models with different activation functions, weight initialisation strategies, and learning rules
